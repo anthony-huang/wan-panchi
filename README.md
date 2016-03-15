@@ -1,8 +1,8 @@
 # wan-panchi
 Anthony and Ammar Fathin Sabili's training on Codeforces Gym
 
-- Anthony ([emolgenos](codeforces.com/profile/emolgenos))
-- Ammar ([saitammar](codeforces.com/profile/saitammar))
+- Anthony ([emolgenos](http://codeforces.com/profile/emolgenos))
+- Ammar ([saitammar](http://codeforces.com/profile/saitammar))
 
 We do the Codeforces Gym for fun
 
